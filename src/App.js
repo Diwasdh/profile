@@ -1,12 +1,8 @@
 // import logo from './logo.svg';
-import './App.css';
+import "./App.scss";
 
 function App() {
-  return (
-    <div className="App">
-      Hello
-    </div>
-  );
+   return <div className="name mt-4 fs-1">Diwas Dhakal</div>;
 }
 
 export default App;
